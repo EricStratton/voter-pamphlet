@@ -1,5 +1,6 @@
 #voterInfo, #under-18 {
   display: none;
+  
 }
 
 h1{
@@ -12,9 +13,16 @@ h1{
 .link {
   cursor: pointer;
   color: #0088cc;
+  position: center;
 }
 
 body {
   position: center;
   text-align: center;
+}
+
+img {
+  position: center;
+  width: 75%;
+
 }
